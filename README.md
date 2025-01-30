@@ -9,7 +9,14 @@ gangguan eksternal, meskipun harganya lebih mahal dibandingkan kabel Unshielded 
 Pair (UTP).
 # Alat dan bahan
   - Kabel STP /Kabel STP
-    <img src="kabel" width=600 height=300>
+
+    <img src="Kabel" width=400 height=200>
   - konektor RJ-45
+
+    <img src="kabel straight" width=400 height=200>
   - Tang crimping
+
+    <img src="tang" width=400 height=200>
   - LAN tester
+    
+    <img src="Lan Tester" width=400 height=200>
