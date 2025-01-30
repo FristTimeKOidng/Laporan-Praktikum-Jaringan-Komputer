@@ -24,4 +24,18 @@ Pair (UTP).
 # Jenis-jenis teknik pengkabelan
 - Kabel Straight :
 
+ <img src="jenis1.png" width=200 height=300>
+
+ Kabel straight-through adalah jenis pengkabelan di mana urutan pin di kedua ujung
+kabel identik, sehingga kabel terhubung langsung dari satu ujung ke ujung lainnya tanpa
+adanya perubahan urutan pin. Cara ini digunakan untuk menghubungkan berbagai perangkat
+seperti komputer ke switch atau router
   
+- Kabel Crossover
+
+<img src="jenis2.png" width=200 height=300>
+
+kabel crossover memiliki urutan pin yang dibalik pada satu ujung kabel dibandingkan dengan ujung lainnya. Misalnya, pin 1 di satu ujung terhubung dengan pin 3 di
+ujung lainnya, pin 2 terhubung dengan pin 6, pin 3 terhubung dengan pin 1, dan pin 6
+terhubung dengan pin 2. Metode ini digunakan untuk menghubungkan perangkat serupa,
+seperti switch ke switch atau komputer ke computer (client ke client)
