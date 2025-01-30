@@ -9,6 +9,7 @@ gangguan eksternal, meskipun harganya lebih mahal dibandingkan kabel Unshielded 
 Pair (UTP).
 # Alat dan bahan
   - Kabel STP /Kabel STP
+    <img src="kabel" width=600 height=300>
   - konektor RJ-45
   - Tang crimping
   - LAN tester
