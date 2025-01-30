@@ -39,3 +39,6 @@ kabel crossover memiliki urutan pin yang dibalik pada satu ujung kabel dibanding
 ujung lainnya, pin 2 terhubung dengan pin 6, pin 3 terhubung dengan pin 1, dan pin 6
 terhubung dengan pin 2. Metode ini digunakan untuk menghubungkan perangkat serupa,
 seperti switch ke switch atau komputer ke computer (client ke client)
+
+# Cara pembuatan Kabel Straight atau Crossover
+
