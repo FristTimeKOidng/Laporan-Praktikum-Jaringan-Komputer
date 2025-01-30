@@ -41,4 +41,20 @@ terhubung dengan pin 2. Metode ini digunakan untuk menghubungkan perangkat serup
 seperti switch ke switch atau komputer ke computer (client ke client)
 
 # Cara pembuatan Kabel Straight atau Crossover
+- Mengupas kulit kabel bagian luar sekitar lebih kurang 2 cm menggunakan tang crimping.
 
+- susun rapi delapan kabel yang terdapat didalam kabel UTP sesuai dengan jenis kabel mana yang ingin dibuat (straight maupun cross).
+
+- luruskan kabel yang masih kusut agar pada memasukan kabel ke dalama konektor lebih mudah.
+
+- ratakan ujung kabel dengan memotong nya menggunakan tang crimping sekitar 1cm agar sesuai dgn ujung Konektor RJ-45.
+
+- masukan kabel kedalam konektor RJ-45, pastikan ujung kabel menyentuh ujung RJ-45, dan jepitlah menggunakan tang crimping.
+
+- Lakukan kembali pada kedua ujung kabel.
+
+- selanjutnya uji kabel menggunakan LAN tester, jika semua lampu menyala, berarti kabel tersebut telah di crimping dengan benar dan bisa digunakan.
+
+# KESIMPULAN :
+
+  Membuat kabel straight dan Crossover cukup mudah jika mengikuti langkah-langkah dengan benar. Pastikan susunan warna sesuai standar agar koneksi berfungsi dengan baik. terimakasih
